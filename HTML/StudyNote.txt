@@ -1,0 +1,14 @@
+<em>	强调文本
+<strong>	特别强调文本
+<time>	日期或时间
+<a href="URL">	链接
+<q>		短引用
+<blockquote>	长引用
+<p>		段落
+<code>	计算机程序代码
+<br>	void元素,表示换行
+<img src="URL">	图像
+<ol>	有序列表
+<ul>	无序列表
+<li>	列表中的列表项
+<h1>	顶级标题
