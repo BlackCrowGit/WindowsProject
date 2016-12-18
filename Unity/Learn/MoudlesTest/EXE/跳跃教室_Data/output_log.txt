@@ -17,13 +17,13 @@ Platform assembly: W:\Project\Unity\Learn\MoudlesTest\EXE\跳跃教室_Data\Mana
 Loading W:\Project\Unity\Learn\MoudlesTest\EXE\跳跃教室_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: W:\Project\Unity\Learn\MoudlesTest\EXE\跳跃教室_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading W:\Project\Unity\Learn\MoudlesTest\EXE\跳跃教室_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.181 seconds
+- Completed reload, in  0.062 seconds
 Platform assembly: W:\Project\Unity\Learn\MoudlesTest\EXE\跳跃教室_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: W:\Project\Unity\Learn\MoudlesTest\EXE\跳跃教室_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 79.476631 ms
+UnloadTime: 2.214979 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: cb8 -> priority: 1 
+  Thread -> id: 37ec -> priority: 1 
