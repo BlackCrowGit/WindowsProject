@@ -1,4 +1,4 @@
 sceneSetups:
-- path: W:/Project/Unity/Learn/FeiPan/Assets/Scenes/game.unity
+- path: Assets/Scenes/RayDemo.unity
   isLoaded: 1
   isActive: 1
